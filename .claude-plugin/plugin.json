@@ -1,5 +1,5 @@
 {
-  "name": "claude-skill-wp-ux-design",
+  "name": "wp-ux-design-claude-skill",
   "version": "1.0.0",
   "description": "WordPress UX/design enforcement skill covering Core Web Vitals, mobile-first design, typography systems, color management, navigation UX, page builder patterns, and loading/error states.",
   "skills": [

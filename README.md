@@ -1,4 +1,4 @@
-# claude-skill-wp-ux-design
+# wp-ux-design-claude-skill
 
 WordPress UX/design enforcement skill covering Core Web Vitals, mobile-first design, typography systems, color management, navigation UX, page builder patterns, and loading/error states.
 
@@ -7,7 +7,7 @@ WordPress UX/design enforcement skill covering Core Web Vitals, mobile-first des
 ### Claude Code Plugin Marketplace
 
 ```bash
-/plugin install https://github.com/xonack/claude-skill-wp-ux-design
+/plugin install https://github.com/xonack/wp-ux-design-claude-skill
 ```
 
 ### Manual Installation
@@ -30,7 +30,7 @@ Once installed, the skill activates automatically when working on relevant WordP
 ## Structure
 
 ```
-claude-skill-wp-ux-design/
+wp-ux-design-claude-skill/
 ├── README.md
 ├── LICENSE
 ├── .claude-plugin/
